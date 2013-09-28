@@ -8,9 +8,13 @@ What does it do?
 
 Simple, it keeps watching some webpages you choose. When something changes in that page, you're sent an sms through Skype.
 
+## Notes
+
 Skype **must** be running on your system, and Skype4Py libraries must be installed as well.
 
 On the Perl side, this thing is based on WWW::Mechanize.
+
+`skype_sms_shooter.py`  must be copied/linked somewhere in the executable PATH.
 
 # Credits
 
